@@ -6,6 +6,6 @@
 
 <h3 align="center">Hi4D and CHI3D Dataset</h3>
 
-<p align="center"><img src='Fig/experiment_results.pdf'></p>
+<p align="center"><img src='Fig/experiment_results.jpg'></p>
 
 ### 
